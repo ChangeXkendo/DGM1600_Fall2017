@@ -1,0 +1,29 @@
+//
+
+
+Variable Examples and explanation.
+
+    Example one:
+
+        Public Int myAge = 21;
+            On this variable I used integer meaning I am setting it to a whole number, the name is myAge, and the number is 21, meaning that my age is 21.
+
+    Example two:
+
+        public float gas = 21.57
+            This one is a float, meaning I can use a floating decimal, meaning it doesn't have to be a whole number.
+
+    Example three:
+
+        public char y = x
+            This is a character, meaning that the variable you are using is a single letter.
+
+    Example four:
+
+        public string myName = Tyus
+            This is a type where you can have a variable say a specific word. In this case, my name.
+
+    Example five: 
+
+        public double pi = 3.14
+            a double is kind of a mix between a float and a integer, you can use to be both, I think.                                 

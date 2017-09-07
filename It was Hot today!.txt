@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I wish it would get colder. 
+=======
+It is always so hot...
+>>>>>>> NARUTO

@@ -1,0 +1,60 @@
+using System.Collections;
+
+using System.Collections.Generic;
+
+using UnityEngine;
+
+public class Conditional : MonoBehaviour
+	 {
+
+public string stopLight = "Red";
+
+
+	void Start(){
+
+	Main();
+}
+void Main(){
+
+	if(stopLight == "Red"){
+	print("Stop! The light is red!");
+
+	}
+	
+		else if (stopLight == "Yellow"){
+		
+		print("Slow Down!");
+	}
+	
+		else if (stopLight == "Green"){
+		
+		print("Green means GO!");
+	}
+	
+	else if (stopLight == "All Colors"){
+		
+		print("Stop, drop, and roll");
+	
+	}
+
+		else{
+		print("I dont know what you mean!");
+	
+		}
+		
+		
+
+
+}
+
+
+
+
+		}
+
+
+		//If is the Anchor or the initial condition of the code, in my example, if the light is red, you will see the script "Slow Down!"//
+		
+//The else if's are the conditionals if the If statement is incorrect//3
+		
+//Else is the final conditional, meaning if none of the if's or else if's are true you will see the print "I dont know what you mean!"//

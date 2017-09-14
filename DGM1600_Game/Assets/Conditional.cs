@@ -19,6 +19,10 @@ void Main(){
 	else if (stopLight == "Green"){
 		print("Green means GO!");
 	}
+	else if (stopLight == "All Colors"){
+		print("Stop, drop, and roll");
+	
+	}
 	else{
 		print("I dont know what you mean!");
 	}
